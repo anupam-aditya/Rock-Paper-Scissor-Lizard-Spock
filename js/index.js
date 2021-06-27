@@ -179,7 +179,7 @@ function result(ch,rndInt)
         $(".result-text").text("YOU LOSE");
       else
         $(".result-text-mobile").text("YOU LOSE");
-      var audio = new Audio('sound/you-lose-game-over.mp3');
+      var audio = new Audio('sound/You-lose-game-over.mp3');
       audio.play();
     }
     if(screen.width>600)
