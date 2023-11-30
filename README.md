@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)![1701355519051](image/README-template/1701355519051.png)
+![1701355973220](image/README/1701355973220.png)
 
 ### Links
 
